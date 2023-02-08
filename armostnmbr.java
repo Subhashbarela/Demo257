@@ -28,7 +28,7 @@ int no=370;
         System.out.println(armo+" this is not armostrong number");
 
     }
-.....................missing element.................
+....................Findout missing element.................
 
   System.out.println("finf out missing element");
     int[] arr = {1,2,3,5,6,7,8,9};
